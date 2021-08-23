@@ -1,5 +1,3 @@
-WWU | Spring 2021 | CSCI 412 Final Project
-
 Happy by Ryan Foggin, Niall O'Rourke, Don Strong
 
 This is an android app developed in Kotlin for the use of documenting the important
